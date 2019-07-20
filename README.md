@@ -1,5 +1,5 @@
-# Emergency_stop_button
-Emergency_stop_button
+# 통합 시선제어 연구 로봇 플랫폼 (HRVL GBot)을 위한 통합 전원 관리 시스템
+통합 시선제어 연구 로봇 플랫폼 (HRVL GBot)을 위한 통합 전원 관리 시스템
 
 ![image](https://user-images.githubusercontent.com/47591345/61581202-323e6d80-ab56-11e9-9ecc-830ec8b0f519.png)
 <통합 시선제어 연구 로봇 플랫폼 (HRVL GBot)을 위한 통합 전원 관리 시스템 회로도>
