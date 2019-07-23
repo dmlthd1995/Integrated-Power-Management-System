@@ -5,7 +5,7 @@
 
 
 
-### 
+### ●제품 제원 및 핀 정보 Arduino Uno
 ![image](https://user-images.githubusercontent.com/47591345/61475975-f32de200-a9c6-11e9-84ac-8f287be7c9e4.png)
 
 ![image](https://user-images.githubusercontent.com/47591345/61476005-05a81b80-a9c7-11e9-8b30-0e927df87147.png)
