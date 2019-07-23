@@ -5,13 +5,20 @@
 
 
 
-### ●제품 제원 및 핀 정보 Arduino Uno
+### ●제품 제원 및 핀 정보 Arduino Uno, Jarduino Uno BTmini
 ![image](https://user-images.githubusercontent.com/47591345/61475975-f32de200-a9c6-11e9-84ac-8f287be7c9e4.png)
 
+
+### ●제품 제원 및 핀 정보 Arduino Uno, HC-06 블루투스 모듈
 ![image](https://user-images.githubusercontent.com/47591345/61476005-05a81b80-a9c7-11e9-8b30-0e927df87147.png)
 
+
+### ●Jarduino Uno BTmini
 ![image](https://user-images.githubusercontent.com/47591345/61476037-15276480-a9c7-11e9-874d-1ab930c0c7ed.png)
 
+
+### ●Jarduino Uno BTmini의 통신속도 설정 방법
+####  -Jarduino Uno BTmini는 Arduino IDE로 시리얼모니터 확인 시 파라미터 통신 오류로 인해 Hercules프로그램을 사용해야합니다.
 ![image](https://user-images.githubusercontent.com/47591345/61476063-27a19e00-a9c7-11e9-90c6-2e8e3979ba40.png)
 
 ![image](https://user-images.githubusercontent.com/47591345/61476093-36885080-a9c7-11e9-89e5-23b097f0ae94.png)
