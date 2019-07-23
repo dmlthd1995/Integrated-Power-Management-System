@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/47591345/61581202-323e6d80-ab56-11e9-9ecc-830ec8b0f519.png)
 ***
 ### ●Block diagram
-![image](https://user-images.githubusercontent.com/47591345/61711661-87b18f00-ad8f-11e9-8f9e-01b77ad9de4a.png)
+![image](https://user-images.githubusercontent.com/47591345/61711727-b29be300-ad8f-11e9-9141-e1d22101b66c.png)
 ***
 ### ●제품 제원 및 핀 정보 Arduino Uno, Jarduino Uno BTmini
 ![image](https://user-images.githubusercontent.com/47591345/61475975-f32de200-a9c6-11e9-84ac-8f287be7c9e4.png)
